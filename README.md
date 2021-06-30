@@ -1,2 +1,3 @@
-# koolproxyR-Rule
- koolproxyR离线规则更新
+# koolproxy-Rule
+ koolproxy 离线规则更新
+ 自用
