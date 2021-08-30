@@ -105,8 +105,8 @@
 ||workgreat11.live###headnav > table > tbody > tr:nth-child(2) > td,[id="topbar"],[class="vjs-preroll"],[id="small-rightbox"],[class="vjs-pre-controls"],body > div:nth-child(7) > div,body > div:nth-child(7) > div,IFRAME[width="300"][height="112"],IFRAME[height="250"],#row > br:nth-child(4),#row > br:nth-child(8),#row > br:nth-child(9)
 ||91porn.com,91p47.com##body > div:nth-child(8) > div,[class="vjs-preroll"],iframe[width="300"][height="112"],iframe[width="300"][height="262"],iframe[width="300"][height="250"]
 ||https://91porn.com,https://91p47.com##body > div:nth-child(8) > div,[class="vjs-preroll"],iframe[width="300"][height="112"],iframe[width="300"][height="262"],iframe[width="300"][height="250"]
-||wonderfulday27.live,wonderfulday25.live,wonderfulday30.live##[align="center"],[class="ad_textlink2"],#threadtitle > a
-||https://wonderfulday30.live,https://wonderfulday27.live##[align="center"],[class="ad_textlink2"],#threadtitle > a
+||wonderfulday27.live,wonderfulday25.live,wonderfulday30.live, f1113.workarea1.live##[align="center"],[class="ad_textlink2"],#threadtitle > a
+||https://wonderfulday30.live,https://wonderfulday27.live, https://f1113.workarea1.live##[align="center"],[class="ad_textlink2"],#threadtitle > a
 ||t66y.com##[class="tips"],[class="tpc_icon fl"],[class="sptable_do_not_remove f_one"]
 ||https://t66y.com##[class="tips"],[class="tpc_icon fl"],[class="sptable_do_not_remove f_one"]
 ||688ing.com##[id="adList"],[id="side"]
@@ -119,4 +119,7 @@ https://www.busdmm.zone,https://www.busdmm.work,https://www.busdmm.icu,https://w
 ||https://nfstar.net,https://nfstar.vip##[class="col-xs-1"],[class="col-pd mb10"],[class="bottom_fixed"]
 ||https://show.govjiangsu.cn:12443/
 ||bi-si888.xyz##[id="frameZuI9j8"]
-
+||https://image.ssports.com/images/resources/show/ordinaryVideo/*.mp4
+||https://ssl-club-api-ios-1.kdslife.com/index.php/kds_ad/ad_list?
+||https://m.kdslife.com##[class="foot_pop_banner"]
+||https://m.kdslife.com$s@class="wrap clearfix"@class="wrap clearfix" style="margin-top: 0px;"@
